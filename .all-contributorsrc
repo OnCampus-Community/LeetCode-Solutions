@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "mdahtesham1473",
+      "name": "mdahtesham1473",
+      "avatar_url": "https://avatars.githubusercontent.com/u/78257534?v=4",
+      "profile": "https://github.com/mdahtesham1473",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "LeetCode-Solutions",
+  "projectOwner": "OnCampus-Community"
+}
