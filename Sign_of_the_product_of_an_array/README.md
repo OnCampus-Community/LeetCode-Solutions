@@ -1,6 +1,6 @@
 <h2>Sign of the Product of an Array</h2>
 <br>
-This repository contains code for a C++ and Java program that calculates the sign of the product of an array of integers. The sign of the product is determined as follows:
+This repository contains C++ and Java code for a program that calculates the sign of the product of an array of integers. The sign of the product is determined as follows:
 <br>
 If the product is positive, the sign is '+1'.<br>
 If the product is negative, the sign is '-1'.<br>
