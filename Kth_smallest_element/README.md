@@ -1,22 +1,19 @@
-<h2>Sign of the Product of an Array</h2>
+<h2>Kth Smallest Element</h2>
 <br>
-This repository contains C++ and Java code for a program that calculates the sign of the product of an array of integers. The sign of the product is determined as follows:
+This repository contains C++ and Java code to find the Kth smallest element in an array using a specific algorithm. The algorithm employed here efficiently determines the Kth smallest element, making it suitable for various applications, including data analysis, statistics, and algorithm design.
 <br>
-If the product is positive, the sign is '+1'.<br>
-If the product is negative, the sign is '-1'.<br>
-If the product is zero, the sign is '0'.<br>
 
 ## Introduction
 
-In various mathematical and computational contexts, it can be useful to quickly determine the sign of the product of a list of integers.
+The "Kth Smallest Element" code focuses on finding the Kth smallest element in an array of numbers. This operation is valuable in various computational tasks, such as finding the median of a dataset or solving problems that require ranking elements by their value.
 <br>
 
 ## Algorithm
 The algorithm used in this program is straightforward:<br>
 
-1. Count the number of zero and negative terms.<br>
-2. If the count of zero is one or more return the sign as 0.<br>
-3. If the count of negative is even return +1 and if its odd return -1.<br>
+1. Sort the array.<br>
+2. Return kth element of the array(if 1- base indexing is used).<br>
+3. Return k-1 element of the array(if 0- base indexing is used).<br>
 
 ## Contributing
 
