@@ -12,3 +12,15 @@ The algorithm used in this program is straightforward:<br>
 1. Count the number nodes in the linked list by traversing the whole list once.<br>
 2. After getting the number of nodes we can calculate the possition of the middle node<br>
 3. Traverse till the possition of the middile and return it.<br>
+
+## Contributing
+
+If you'd like to contribute to this project, please follow these steps:<br>
+
+1. Fork the repository.<br>
+2. Create a new branch for your feature or bug fix.<br>
+3. Make your changes and test them thoroughly.<br>
+4. Create a pull request, describing your changes and why they are necessary.<br>
+5. Your pull request will be reviewed, and once approved, it will be merged into the main branch.<br>
+
+Feel free to use this code in your projects and adapt it as needed. If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue or contribute to the project. Your feedback and contributions are greatly appreciated!

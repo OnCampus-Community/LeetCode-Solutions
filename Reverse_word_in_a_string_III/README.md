@@ -17,3 +17,15 @@ The algorithm used in this program is straightforward:<br>
 1. Split the input string into words using whitespace as the delimiter.<br>
 2. Reverse each word.<br>
 3. Join the reversed words back together with whitespace to reconstruct the final string.<br>
+
+## Contributing
+
+If you'd like to contribute to this project, please follow these steps:<br>
+
+1. Fork the repository.<br>
+2. Create a new branch for your feature or bug fix.<br>
+3. Make your changes and test them thoroughly.<br>
+4. Create a pull request, describing your changes and why they are necessary.<br>
+5. Your pull request will be reviewed, and once approved, it will be merged into the main branch.<br>
+
+Feel free to use this code in your projects and adapt it as needed. If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue or contribute to the project. Your feedback and contributions are greatly appreciated!

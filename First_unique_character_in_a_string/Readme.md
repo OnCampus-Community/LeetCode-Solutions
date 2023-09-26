@@ -11,6 +11,16 @@ The algorithm used in this program is as follows: <br><br>
 4. Return the first character with a frequency of 1, indicating it is the first unique character.<br>
 5. If no unique character is found, return -1.
 <hr>
-<h3>Contributing</h3>
-<br>
-If you would like to contribute to this project, please open an issue or create a pull request. All contributions are welcome!
+
+
+## Contributing
+
+If you'd like to contribute to this project, please follow these steps:<br>
+
+1. Fork the repository.<br>
+2. Create a new branch for your feature or bug fix.<br>
+3. Make your changes and test them thoroughly.<br>
+4. Create a pull request, describing your changes and why they are necessary.<br>
+5. Your pull request will be reviewed, and once approved, it will be merged into the main branch.<br>
+
+Feel free to use this code in your projects and adapt it as needed. If you encounter any issues or have suggestions for improvements, please don't hesitate to open an issue or contribute to the project. Your feedback and contributions are greatly appreciated!
