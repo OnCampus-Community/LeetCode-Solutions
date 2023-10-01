@@ -7,7 +7,7 @@ This repository contains C++ and Java code for a program that checks whether a g
 
 A linked list is a data structure that consists of a sequence of nodes, where each node contains a value and a reference to the next node in the sequence. This code provides a function to determine whether a given linked list is a palindrome. In other words, it checks if the elements of the linked list form a sequence that reads the same forwards and backwards.<br>
 
-## Algorithum
+## Algorithm
 
 The algorithm used in this program is straightforward:<br>
 
