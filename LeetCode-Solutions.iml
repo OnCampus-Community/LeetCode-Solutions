@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Boolean_matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Boundary_traversal_of_matrix" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Check_if_given_liked_list_is_palindrome" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Check_if_two_strings_are_anagrams" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Count_the_digits_that_divide_a_number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Divisible_and_non_divisible_sums_difference" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Find_duplicates_in_an_array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Find_middle_element_in_a_linked_list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/First_repeating_element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/First_unique_character_in_a_string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Flip_bits" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Kth_smallest_element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Majority_element" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Minimum_processing_time" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Move_all_zeroes_to_end_of_array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Move_last_element_to_front_of_a_linked_list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Non_repeating_numbers" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Number_of_occurrence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Parenthesis_checker" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rearrange_a_linked_list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Rearrange_array_alternately" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Remove_consecutive_characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Remove_duplicate_element_from_sorted_linked_list" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Reverse_word_in_a_string_III" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Roman_number_to_integer" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Row_with_max_1s" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Searching_an_element_in_a_sorted_array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Sign_of_the_product_of_an_array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Trapping_rain_water" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
